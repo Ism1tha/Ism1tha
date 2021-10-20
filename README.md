@@ -45,8 +45,8 @@
         <img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub" alt="GitHub" title="GitHub" height="25" />
         </code>
     </div>
-    <div>
-        <img  style="margin:50px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ism1tha&layout=compact&text_color=daf7dc&bg_color=151515">
+    <div style="margin-top: 25px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ism1tha&layout=compact&text_color=daf7dc&bg_color=151515">
     </div>
 
 Last Edited on: 20/10/2021
