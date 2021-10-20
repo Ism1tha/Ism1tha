@@ -45,6 +45,7 @@
         <img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub" alt="GitHub" title="GitHub" height="25" />
         </code>
     </div>
+    <br>
     <div style="margin-top: 25px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ism1tha&layout=compact&text_color=daf7dc&bg_color=151515">
     </div>
