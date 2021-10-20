@@ -46,7 +46,7 @@
         </code>
     </div>
     <div>
-        <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ism1tha&layout=compact&text_color=daf7dc&bg_color=151515">
+        <img  style="margin:50px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ism1tha&layout=compact&text_color=daf7dc&bg_color=151515">
     </div>
 
 Last Edited on: 20/10/2021
