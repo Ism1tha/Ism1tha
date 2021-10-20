@@ -30,9 +30,6 @@
         <img src="https://img.shields.io/badge/PostCSS-282C34?logo=PostCSS" alt="PostCSS" title="PostCSS" height="25" />
         </code>
         <code>
-        <img src="https://img.shields.io/badge/PWA-282C34?logo=PWA" alt="PWA" title="PWA" height="25" />
-        </code>
-        <code>
         <img src="https://img.shields.io/badge/Webpack-282C34?logo=Webpack" alt="Webpack" title="Webpack" height="25" />
         </code>
         <code>
