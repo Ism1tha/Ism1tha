@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](#)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:isgalvez24@gmail.com)](mailto:isgalvez24@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/imanmalekian31)
+    [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Ism1tha)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ism1tha)
 
 ## 🧐 About
