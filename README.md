@@ -1,50 +1,40 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Ismael!+👋;I'm+a+Student)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](#)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:isgalvez24@gmail.com)](mailto:isgalvez24@gmail.com)
-    [![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Ism1tha)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Ism1tha)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ism1tha)
 
-## 🧐 About
 
-- 📫 How to reach me: isgalvez24@gmail.com
-- 🌱 Languages and Tools:
+```
+                                              ,,                 
+`7MMF'                                 mm   `7MM                 
+  MM                             __,   MM     MM                 
+  MM  ,pP"Ybd `7MMpMMMb.pMMMb.  `7MM mmMMmm   MMpMMMb.   ,6"Yb.  
+  MM  8I   `"   MM    MM    MM    MM   MM     MM    MM  8)   MM  
+  MM  `YMMMa.   MM    MM    MM    MM   MM     MM    MM   ,pm9MM  
+  MM  L.   I8   MM    MM    MM    MM   MM     MM    MM  8M   MM  
+.JMML.M9mmmP' .JMML  JMML  JMML..JMML. `Mbmo.JMML  JMML.`Moo9^Yo.
+---
 
-    <div>
-        <code>
-        <img src="https://img.shields.io/badge/HTML5-282C34?logo=HTML5" alt="HTML5" title="HTML5" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/CSS3-282C34?logo=CSS3&logoColor=229EEB" alt="CSS3" title="CSS3" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript" alt="JavaScript" title="JavaScript" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap" title="Bootstrap" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass" alt="Sass" title="Sass" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/PostCSS-282C34?logo=PostCSS" alt="PostCSS" title="PostCSS" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Webpack-282C34?logo=Webpack" alt="Webpack" title="Webpack" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js" alt="Vue.js" title="Vue.js" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/VisualStudioCode-282C34?logo=VisualStudioCode&logoColor=229EEB" alt="VisualStudioCode" title="VisualStudioCode" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub" alt="GitHub" title="GitHub" height="25" />
-        </code>
-    </div>
-    <br>
-    <div style="margin-top: 25px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ism1tha&layout=compact&text_color=daf7dc&bg_color=151515">
-    </div>
+```
 
-Last Edited on: 20/10/2021
+Highly motivated and self-taught Sysadmin and Developer with a strong passion for technology and information systems. Skilled in various aspects of TIC, including programming, system administration, and database management. Committed to continuous learning and staying up-to-date with the latest industry trends. Excels in building gaming communities and has a solid understanding of web development, project management, and effective communication.
+
+### Web Languages
+
+- Structure-related: [Twig](https://twig.symfony.com/) ([Craft CMS](https://craftcms.com/), [Timber](https://upstatement.com/timber/)), [HTML](https://html.spec.whatwg.org/), [PHP](https://www.php.net/)
+- Style-related: [SCSS](https://sass-lang.com/), [LESS](https://lesscss.org/)
+- Script-related: [“vanilla” JavaScript](https://www.javascript.com/) & [jQuery](https://jquery.com/)
+- CMS’s: [October CMS](https://octobercms.com/), [WordPress](https://wordpress.org/)
+- As well as Git[Hub] for version control and [Composer](https://getcomposer.org/)/[NPM](https://www.npmjs.com/) for package management
+
+### Links of relevance
+
+- My Website: [https://ismasg.es/](https://ismasg.es/)
+- My Discord: Ism1tha#0670
+
+### Stats of irrelavance
+
+<div style="width: 100%;">
+ <div style="display: flex;">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=ism1tha&hide=stars&count_private=true&show_icons=true" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ism1tha&layout=compact&hide=vue,php" />
+ </div>
+</div>
