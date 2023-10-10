@@ -34,7 +34,6 @@ Highly motivated and self-taught Sysadmin and Developer with a strong passion fo
 
 <div style="width: 100%;">
  <div style="display: flex;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=ism1tha&hide=stars&count_private=true&show_icons=true" />
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ism1tha&layout=compact&hide=vue,php" />
  </div>
 </div>
