@@ -14,26 +14,26 @@
 ---
 
 ```
+### Hi there! 👋
 
-Highly motivated and self-taught Sysadmin and Developer with a strong passion for technology and information systems. Skilled in various aspects of TIC, including programming, system administration, and database management. Committed to continuous learning and staying up-to-date with the latest industry trends. Excels in building gaming communities and has a solid understanding of web development, project management, and effective communication.
+I’m a Superior Technician in System and Network Administration and Multiplatform App Development, currently studying Web Application Development. I have a strong passion for both front-end and back-end technologies, always eager to improve and expand my knowledge. I’m committed to continuous learning and staying on top of the latest trends in the tech industry.
 
-### Web Languages
+I enjoy working on both the client-side and server-side, building robust, scalable applications, and contributing to the tech community.
 
-- Structure-related: [Twig](https://twig.symfony.com/) ([Craft CMS](https://craftcms.com/), [Timber](https://upstatement.com/timber/)), [HTML](https://html.spec.whatwg.org/), [PHP](https://www.php.net/)
-- Style-related: [SCSS](https://sass-lang.com/), [LESS](https://lesscss.org/)
-- Script-related: [“vanilla” JavaScript](https://www.javascript.com/) & [jQuery](https://jquery.com/)
-- CMS’s: [October CMS](https://octobercms.com/), [WordPress](https://wordpress.org/)
-- As well as Git[Hub] for version control and [Composer](https://getcomposer.org/)/[NPM](https://www.npmjs.com/) for package management
+### My Tech Stack 🚀
+
+- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Links of relevance
 
-- My Website: [https://ismasg.es/](https://ismasg.es/)
-- My Discord: Ism1tha#0670
+- Discord: Ism1tha#0670
+- Website: [https://ismasg.es/](https://ismasg.es/)
+- LinkedIn: [Ismael Semmar Galvez](https://linkedin.com/in/isgalvez)
 
 ### Stats of irrelavance
 
-<div style="width: 100%;">
- <div style="display: flex;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ism1tha&layout=compact&hide=vue,php" />
- </div>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats-ism1thas-projects.vercel.app/api?username=Ism1tha&show_icons=true&theme=default)
