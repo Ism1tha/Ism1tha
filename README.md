@@ -2,17 +2,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ism1tha)
 
 
-```
-                                              ,,                 
-`7MMF'                                 mm   `7MM                 
-  MM                             __,   MM     MM                 
-  MM  ,pP"Ybd `7MMpMMMb.pMMMb.  `7MM mmMMmm   MMpMMMb.   ,6"Yb.  
-  MM  8I   `"   MM    MM    MM    MM   MM     MM    MM  8)   MM  
-  MM  `YMMMa.   MM    MM    MM    MM   MM     MM    MM   ,pm9MM  
-  MM  L.   I8   MM    MM    MM    MM   MM     MM    MM  8M   MM  
-.JMML.M9mmmP' .JMML  JMML  JMML..JMML. `Mbmo.JMML  JMML.`Moo9^Yo.
----
-
+```                                              ,,                 
+w                8                   d88b   d8 
+w d88b .d88 .d88 8 Yb  dP .d88b 888P " dP  dP8 
+8 `Yb. 8  8 8  8 8  YbdP  8.dP'  dP   dP  dPw8 
+8 Y88P `Y88 `Y88 8   YP   `Y88P d888 d888    8 
+       wwdP                                    
 ```
 ### Hi there! 👋
 
@@ -22,4 +17,4 @@ I enjoy working on both the client-side and server-side, building robust, scalab
 
 ### Stats of irrelavance
 
-![Ism1tha GitHub stats](https://github-readme-stats-ism1thas-projects.vercel.app/api?username=Ism1tha&show_icons=true&&include_all_commits=true&count_private=truea&hide_border=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ism1tha&hide_border=true&mode=weekly&card_width=350&hide_longest_streak=true)](https://git.io/streak-stats)
+![Ism1tha GitHub stats](https://github-readme-stats-ism1thas-projects.vercel.app/api?username=Ism1tha&show_icons=true&&include_all_commits=true&count_private=truea&hide_border=true)
