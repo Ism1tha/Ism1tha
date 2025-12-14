@@ -2,12 +2,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ism1tha)
 
 
-```                                              ,,                 
-w                8                   d88b   d8 
-w d88b .d88 .d88 8 Yb  dP .d88b 888P " dP  dP8 
-8 `Yb. 8  8 8  8 8  YbdP  8.dP'  dP   dP  dPw8 
-8 Y88P `Y88 `Y88 8   YP   `Y88P d888 d888    8 
-       wwdP                                    
+```                                                         
+105 115 103 97 108 118 101 122 50 52    
 ```
 ### Hi there! 👋
 
