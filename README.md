@@ -16,7 +16,7 @@
 ```
 ### Hi there! 👋
 
-I have completed a Higher Vocational Qualification in System and Network Administration and Multiplatform App Development, and I am currently studying Web Application Development. I have a strong passion for both front-end and back-end technologies, always eager to improve and expand my knowledge. I’m committed to continuous learning and staying on top of the latest trends in the tech industry.
+I have a strong passion for both front-end and back-end technologies, always eager to improve and expand my knowledge. I’m committed to continuous learning and staying on top of the latest trends in the tech industry.
 
 I enjoy working on both the client-side and server-side, building robust, scalable applications, and contributing to the tech community. Based in Spain, I am always looking for new opportunities to collaborate on innovative projects and bring my technical skills to the table.
 
