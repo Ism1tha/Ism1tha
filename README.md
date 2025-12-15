@@ -13,4 +13,4 @@ I enjoy working on both the client-side and server-side, building robust, scalab
 
 ### Stats of irrelavance
 
-![Ism1tha GitHub stats](https://github-readme-stats-ism1thas-projects.vercel.app/api?username=Ism1tha&show_icons=true&&include_all_commits=true&count_private=truea&hide_border=true)
+![Ism1tha GitHub stats](https://github-readme-stats-ism1thas-projects.vercel.app/api?username=isgalvez24&show_icons=true&&include_all_commits=true&count_private=truea&hide_border=true)
